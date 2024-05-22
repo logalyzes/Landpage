@@ -22,7 +22,7 @@ function Hero() {
          Logalyses
         </Typography>
         <Typography variant="h4" component="div">
-         We empower your business by transforming raw logs into actionable insights.
+        Transforming Log Management with Efficiency, Scalability, and Machine Learning Precision
         </Typography>
       </Box>
     </Paper>
